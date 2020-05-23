@@ -9,6 +9,7 @@ Passe pelos olhos misteriosos e chegue ao planeta do sHrEkwAzOsKi! Se voce encon
 
 ## Controles
 **Primeira parte:**
+
 Mouse - Controla direção da nave.
 
 Click Esquerdo - Atira
